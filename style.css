@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #b1641b;
+    background-color: #AED6F1;
 }
 
 .resume-contents {
@@ -21,13 +21,13 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #545694;
+    background-color: #34495E;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #90a5b6;
+    background-color: #D6DBDF;
 }
 
 .left-section-contents{
@@ -40,9 +40,9 @@ body {
 }
 
 .profile .profile-image {
-    width: 60%;
+    width: 100%;
     border-radius: 50%;
-    border: 8px solid #0d253d;
+    border: 8px solid #1B2631;
 }
 
 .name {
@@ -56,7 +56,7 @@ body {
 }
 
 .profession {
-    color: #F2E79F;
+    color: #F9E79F;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
